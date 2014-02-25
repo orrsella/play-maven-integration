@@ -36,7 +36,7 @@
 
     <properties>
         <play2.version>2.2.1</play2.version>
-        <play2.scala.version>2.10</play2-.scala.version>
+        <play2.scala.version>2.10</play2.scala.version>
         <play2.plugin.version>1.0.0-alpha5</play2.plugin.version>
     </properties>
 

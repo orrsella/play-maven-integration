@@ -1,7 +1,7 @@
 import sbt._
 import sbt.Keys._
 
-object AppBuild extends Build {
+object MyBuild extends Build {
 
   val core = Project("my-application-core", file("my-application-core"))
     .settings(
