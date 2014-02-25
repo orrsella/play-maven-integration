@@ -1,6 +1,6 @@
 # play-maven-integration
 
-A sample project showing how to integrate a [Play Framework](http://www.playframework.com/) with a [Maven](http://maven.apache.org/) build process. See [Integrating Play Framework And Maven](http://orrsella.com/) for more information.
+A sample project showing how to integrate a [Play Framework](http://www.playframework.com/) project with a [Maven](http://maven.apache.org/) build process. See [Integrating Play Framework And Maven](http://orrsella.com/2014/02/25/integrating-play-framework-and-maven/) for more information.
 
 ## Capabilities
 
